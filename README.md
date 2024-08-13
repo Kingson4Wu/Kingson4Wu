@@ -1,6 +1,13 @@
 
 [![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### Hi there 👋
+- 😄 I’m a backend developer with a decade of work experience.
+- 💬 My primary programming languages are Go (2 years) and Java (8 years).
+- 🌱 I’m currently learning Rust.
+- 🔭 I have previously worked at four companies, including three publicly traded internet companies and one startup.
+- 👯 I’m seeking an engaging, technically challenging, and passionate remote work opportunity.
+
 <!--
 ### Stat
 
