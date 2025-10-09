@@ -1,5 +1,16 @@
-
+<!--
 [![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+
+<div align=center>
+    <img width="804" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu&theme=github_dark">
+</div>
+
+<div align=center>
+    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingson4wu&theme=github_dark">
+    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingson4wu&theme=github_dark&utcOffset=8">
+</div>
+
 
 ### Hi there 👋
 - 😄 I’m a backend developer with a decade of work experience.
