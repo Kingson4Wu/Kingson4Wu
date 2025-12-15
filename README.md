@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ### Projects
 + [ForgeFlow](https://kingson4wu.github.io/ForgeFlow/):Automate AI CLIs in tmux 🤖 with rules, session management 🗂️, and testable core 🧩.
-+ [ts-playgroun](https://kingson4wu.github.io/ts-playground/):TypeScript Backend 🟦 Learn APIs, CLI, Node.js, and projects with hands-on practice.
++ [ts-playground](https://kingson4wu.github.io/ts-playground/):TypeScript Backend 🟦 Learn APIs, CLI, Node.js, and projects with hands-on practice.
 + [LLMs-for-Backend-Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers):📘 Guide backend developers on LLM principles, implementation, and best practices.
