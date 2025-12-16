@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 * 🟦 **[TypeScript Playground](https://kingson4wu.github.io/ts-playground/)**: TypeScript backend tutorials covering APIs, CLI tools, Node.js, and hands-on projects.
 * 💻 **[C++ Playground](https://kingson4wu.github.io/cpp-linux-playground/)**: Modern C++ on Linux, focusing on systems, concurrency, networking, and performance.
 * 🐹 **[Saturn CLI](https://kingson4wu.github.io/saturncli/)**: Lightweight client/server toolkit using Unix domain sockets to run and monitor shell jobs.
-* 🐹 **[FastProxy](https://kingson4wu.github.io/fast_proxy/)**: High-performance service proxy securing and accelerating east-west traffic with crypto, governance, and observability.
+* 🐹 **[FastProxy](https://kingson4wu.github.io/fast_proxy/)**: High-performance service proxy for secure, observable east-west traffic 🚀.
 * ☕ **[QuicKit](https://github.com/Kingson4Wu/QuicKit)**: : Lightweight Java toolkit for building concurrent and asynchronous workflows with reusable infrastructure helpers.
 * 📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices for
 * 🐹 **[MP Weixin Server](https://github.com/Kingson4Wu/mp_weixin_server)**: WeChat public account backend with tasks, scheduled notifications, media backup, and ngrok access.
