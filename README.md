@@ -49,5 +49,13 @@ Here are some ideas to get you started:
 * 🟦 **[TypeScript Playground](https://kingson4wu.github.io/ts-playground/)**: TypeScript backend tutorials covering APIs, CLI tools, Node.js, and hands-on projects.
 * 💻 **[C++ Playground](https://kingson4wu.github.io/cpp-linux-playground/)**: Modern C++ on Linux, focusing on systems, concurrency, networking, and performance.
 * 🐹 **[Saturn CLI](https://kingson4wu.github.io/saturncli/)**: Lightweight client/server toolkit using Unix domain sockets to run and monitor shell jobs.
-* 📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices for backend engineers.
+* 📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices for
+* 🦀 **[Mesh-Talk](https://github.com/Kingson4Wu/mesh-talk)**: Decentralized peer-to-peer mesh chat application built in Rust.
+* 🗃️ **[sports.db](https://github.com/Kingson4Wu/sports.db)**: Open-source sports dataset with raw, structured, and aggregated data assets.
+* 🐍 **[sportsdb-client](https://github.com/Kingson4Wu/sportsdb-client)**: Python client library for accessing and querying sports.db data.
+* 🦀 **[magic-converter](https://github.com/Kingson4Wu/magic-converter)**: Rust tool to convert MTS videos to MP4 with CLI and GUI support.
+* 🐹 **[Distributed Rate Limiter](https://github.com/Kingson4Wu/distributed_ratelimiter)**: Go-based distributed rate limiter for coarse-grained flow control.
+* ☕ **[light_master](https://github.com/Kingson4Wu/light_master)**: Java library for HTTP-based master election and detection in distributed systems.
+* 🐹 **[quick_worker](https://github.com/Kingson4Wu/quick_worker)**: High-performance Go batch processing framework using a scalable producer-consumer model.
+
 
