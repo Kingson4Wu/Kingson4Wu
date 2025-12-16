@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Blogs
+
+- 🌍 **[English Blog](https://kingson4wu.github.io/en/)**
+- 📖 **[Chinese Blog](https://kingson4wu.github.io/)**
+
 ### Projects
 
 * 🐍 **[ForgeFlow](https://kingson4wu.github.io/ForgeFlow/)**: Automate AI CLIs in tmux with rules, session management, and a testable core.
