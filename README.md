@@ -44,8 +44,10 @@ Here are some ideas to get you started:
 -->
 
 ### Projects
-+ [ForgeFlow](https://kingson4wu.github.io/ForgeFlow/): Automate AI CLIs in tmux 🤖 with rules, session management 🗂️, and testable core 🧩.
-+ [TypeScript Playground](https://kingson4wu.github.io/ts-playground/): TypeScript Backend 🟦 Learn APIs, CLI, Node.js, and projects with hands-on practice.
-+ [C++ Playground](https://kingson4wu.github.io/cpp-linux-playground/): Hands-on C++ Playground 🧠 Modern C++, Linux systems, concurrency, networking, performance.
-+ [Saturn CLI](https://kingson4wu.github.io/saturncli/): 🚀 Lightweight client/server toolkit for triggering and monitoring shell jobs via Unix domain sockets
-+ [LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers): 📘 Guide backend developers on LLM principles, implementation, and best practices.
+
+* 🐍 **[ForgeFlow](https://kingson4wu.github.io/ForgeFlow/)**: Automate AI CLIs in tmux with rules, session management, and a testable core.
+* 🟦 **[TypeScript Playground](https://kingson4wu.github.io/ts-playground/)**: TypeScript backend tutorials covering APIs, CLI tools, Node.js, and hands-on projects.
+* 💻 **[C++ Playground](https://kingson4wu.github.io/cpp-linux-playground/)**: Modern C++ on Linux, focusing on systems, concurrency, networking, and performance.
+* 🐹 **[Saturn CLI](https://kingson4wu.github.io/saturncli/)**: Lightweight client/server toolkit using Unix domain sockets to run and monitor shell jobs.
+* 📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices for backend engineers.
+
