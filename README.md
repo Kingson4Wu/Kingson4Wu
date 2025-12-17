@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 * 🐹 **[Distributed Rate Limiter](https://github.com/Kingson4Wu/distributed_ratelimiter)**: Go-based distributed rate limiter for coarse-grained flow control.
 * ☕ **[light_master](https://github.com/Kingson4Wu/light_master)**: Java library for HTTP-based master election and detection in distributed systems.
 * 🐹 **[quick_worker](https://github.com/Kingson4Wu/quick_worker)**: High-performance Go batch processing framework using a scalable producer-consumer model.
-
+* ☕ **[Embedded Lightweight Gateway](https://github.com/Kingson4Wu/embedded_light_gateway)**: Sidecar-style library embedding gateway capabilities directly into microservices.
 
