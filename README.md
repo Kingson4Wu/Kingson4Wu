@@ -49,21 +49,21 @@ Here are some ideas to get you started:
 - 📖 **[Chinese Blog](https://kingson4wu.github.io/)**
 
 ### Projects
-
-* 🐍 **[ForgeFlow](https://kingson4wu.github.io/ForgeFlow/)**: Automate AI CLIs in tmux with rules, session management, and a testable core.
-* 🟦 **[TypeScript Playground](https://kingson4wu.github.io/ts-playground/)**: TypeScript backend tutorials covering APIs, CLI tools, Node.js, and hands-on projects.
-* 💻 **[C++ Playground](https://kingson4wu.github.io/cpp-linux-playground/)**: Modern C++ on Linux, focusing on systems, concurrency, networking, and performance.
-* 🐹 **[Saturn CLI](https://kingson4wu.github.io/saturncli/)**: Lightweight client/server toolkit using Unix domain sockets to run and monitor shell jobs.
-* 🐹 **[FastProxy](https://kingson4wu.github.io/fast_proxy/)**: High-performance service proxy for secure, observable east-west traffic 🚀.
-* ☕ **[QuicKit](https://github.com/Kingson4Wu/QuicKit)**: : Lightweight Java toolkit for building concurrent and asynchronous workflows with reusable infrastructure helpers.
-* 📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices.
-* 🐹 **[MP Weixin Server](https://github.com/Kingson4Wu/mp_weixin_server)**: WeChat public account backend with tasks, scheduled notifications, media backup, and ngrok access.
-* 🦀 **[Mesh-Talk](https://github.com/Kingson4Wu/mesh-talk)**: Decentralized peer-to-peer mesh chat application built in Rust.
-* 🗃️ **[sports.db](https://github.com/Kingson4Wu/sports.db)**: Open-source sports dataset with raw, structured, and aggregated data assets.
-* 🐍 **[sportsdb-client](https://github.com/Kingson4Wu/sportsdb-client)**: Python client library for accessing and querying sports.db data.
-* 🦀 **[magic-converter](https://github.com/Kingson4Wu/magic-converter)**: Rust tool to convert MTS videos to MP4 with CLI and GUI support.
-* 🐹 **[Distributed Rate Limiter](https://github.com/Kingson4Wu/distributed_ratelimiter)**: Go-based distributed rate limiter for coarse-grained flow control.
-* ☕ **[light_master](https://github.com/Kingson4Wu/light_master)**: Java library for HTTP-based master election and detection in distributed systems.
-* 🐹 **[quick_worker](https://github.com/Kingson4Wu/quick_worker)**: High-performance Go batch processing framework using a scalable producer-consumer model.
-* ☕ **[Embedded Lightweight Gateway](https://github.com/Kingson4Wu/embedded_light_gateway)**: Sidecar-style library embedding gateway capabilities directly into microservices.
+* **Status**: 🟢 Active · ✅ Completed · 🧪 Experimental · 🛠️ Maintained · ⏸️ Paused
+* 🟢|🐍 **[ForgeFlow](https://kingson4wu.github.io/ForgeFlow/)**: Automate AI CLIs in tmux with rules, session management, and a testable core.
+* 🟢|📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices.
+* ✅|🟦 **[TypeScript Playground](https://kingson4wu.github.io/ts-playground/)**: TypeScript backend tutorials covering APIs, CLI tools, Node.js, and hands-on projects.
+* ✅|💻 **[C++ Playground](https://kingson4wu.github.io/cpp-linux-playground/)**: Modern C++ on Linux, focusing on systems, concurrency, networking, and performance.
+* 🛠️|🐹 **[Saturn CLI](https://kingson4wu.github.io/saturncli/)**: Lightweight client/server toolkit using Unix domain sockets to run and monitor shell jobs.
+* 🛠️|🐹 **[FastProxy](https://kingson4wu.github.io/fast_proxy/)**: High-performance service proxy for secure, observable east-west traffic 🚀.
+* 🧪|☕ **[QuicKit](https://github.com/Kingson4Wu/QuicKit)**: : Lightweight Java toolkit for building concurrent and asynchronous workflows with reusable infrastructure helpers.
+* 🛠️|🐹 **[MP Weixin Server](https://github.com/Kingson4Wu/mp_weixin_server)**: WeChat public account backend with tasks, scheduled notifications, media backup, and ngrok access.
+* ⏸️|🦀 **[Mesh-Talk](https://github.com/Kingson4Wu/mesh-talk)**: Decentralized peer-to-peer mesh chat application built in Rust.
+* ⏸️|🗃️ **[sports.db](https://github.com/Kingson4Wu/sports.db)**: Open-source sports dataset with raw, structured, and aggregated data assets.
+* ⏸️|🐍 **[sportsdb-client](https://github.com/Kingson4Wu/sportsdb-client)**: Python client library for accessing and querying sports.db data.
+* 🛠️|🦀 **[magic-converter](https://github.com/Kingson4Wu/magic-converter)**: Rust tool to convert MTS videos to MP4 with CLI and GUI support.
+* 🧪|🐹 **[Distributed Rate Limiter](https://github.com/Kingson4Wu/distributed_ratelimiter)**: Go-based distributed rate limiter for coarse-grained flow control.
+* 🧪|☕ **[light_master](https://github.com/Kingson4Wu/light_master)**: Java library for HTTP-based master election and detection in distributed systems.
+* 🧪|🐹 **[quick_worker](https://github.com/Kingson4Wu/quick_worker)**: High-performance Go batch processing framework using a scalable producer-consumer model.
+* 🧪|☕ **[Embedded Lightweight Gateway](https://github.com/Kingson4Wu/embedded_light_gateway)**: Sidecar-style library embedding gateway capabilities directly into microservices.
 
