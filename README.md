@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 ### Projects
 * **Status**: 🟢 Active · ✅ Completed · 🧪 Experimental · 🛠️ Maintained · ⏸️ Paused
+* 🟢|🧠 **[social-radar](https://github.com/Kingson4Wu/social-radar)**: An AI assistant that cuts through social media noise, surfacing content that actually matches your interests.
 * 🟢|Ⓜ️ **[labali-skills](https://github.com/Kingson4Wu/labali-skills)**: A growing collection of personal AI skills and automation tools.
 * 🟢|🐍 **[ForgeFlow](https://kingson4wu.github.io/ForgeFlow/)**: Automate AI CLIs in tmux with rules, session management, and a testable core.
 * 🟢|📝 **[LLMs for Backend Engineers](https://kingson4wu.github.io/LLMs-for-Backend-Engineers)**: Practical guide to LLM principles, implementation, and best practices.
