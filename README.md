@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### Blogs
 
 - 🌍 **[English Blog](https://kingson4wu.github.io/en/)**
-- 📖 **[Chinese Blog](https://kingson4wu.github.io/)**
+- 📖 **[Chinese Blog](https://kingson4wu.github.io/zh/)**
 
 ### Projects
 * **Status**: 🟢 Active · ✅ Completed · 🧪 Experimental · 🛠️ Maintained · ⏸️ Paused
