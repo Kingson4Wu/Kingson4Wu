@@ -5,10 +5,13 @@
 <div align="center">
 
 <a href="https://github.com/Kingson4Wu">
-  <img height="190" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu&theme=tokyonight" alt="Kingson's GitHub profile summary" />
+  <img width="684" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu&theme=tokyonight" alt="Kingson's GitHub profile summary" />
 </a>
+<br />
 <a href="https://github.com/Kingson4Wu">
-  <img height="190" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingson4wu&theme=tokyonight" alt="Repositories by language" />
+  <img width="340" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingson4wu&theme=tokyonight" alt="Repositories by language" />
+</a><a href="https://github.com/Kingson4Wu">
+  <img width="340" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingson4wu&theme=tokyonight" alt="Most committed languages" />
 </a>
 
 </div>
