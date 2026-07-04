@@ -2,13 +2,15 @@
 [![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
 
-<div align=center>
-    <img width="804" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu&theme=github_dark">
-</div>
+<div align="center">
 
-<div align=center>
-    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingson4wu&theme=github_dark">
-    <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingson4wu&theme=github_dark&utcOffset=8">
+<a href="https://github.com/Kingson4Wu">
+  <img height="190" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingson4wu&theme=tokyonight" alt="Kingson's GitHub profile summary" />
+</a>
+<a href="https://github.com/Kingson4Wu">
+  <img height="190" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingson4wu&theme=tokyonight" alt="Repositories by language" />
+</a>
+
 </div>
 
 
